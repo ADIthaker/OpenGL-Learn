@@ -39,7 +39,7 @@ Make sure all dependencies are installed and linked properly.
 ```bash
 g++ main.cpp -o LearningOpenGL -lglfw -ldl -lGL
 ./LearningOpenGL
-
+```
 ## 📚 Concepts Covered
 
 This project touches on a wide range of OpenGL and graphics programming fundamentals:
