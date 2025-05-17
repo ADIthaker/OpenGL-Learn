@@ -14,7 +14,6 @@ This project demonstrates how to render textured 3D cubes using modern OpenGL wi
 
 ## 🖼 Preview
 
-> *You can add a screenshot or recording of the output window here*
 >
 > Example:
 >
