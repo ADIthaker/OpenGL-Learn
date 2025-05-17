@@ -14,10 +14,7 @@ This project demonstrates how to render textured 3D cubes using modern OpenGL wi
 
 ## 🖼 Preview
 
->
-> Example:
->
-> ![preview](example.png)
+![preview](example.png)
 
 
 ## 🧰 Dependencies
